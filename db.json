@@ -1,5 +1,6 @@
-[
-  {
+{
+  "stories": [
+   {
     "id": 1,
     "title": "Federal Bank",
     "headline": "Federal Bank is one of India’s fastest growing mid-size banks.",
@@ -7,34 +8,8 @@
     "oracle_product":"Oracle Cloud",
     "category":"Banking",
     "body": "It has a customer base of over 8 million customers and handles almost 15 percent of Indias inbound overseas remittances. With more than 1200 branches, 1600 ATMs, and over 11,000 employees, this USD 1.5 billion bank is in the midst of a massive digital transformation. It has increased its handling digital transactions by 43 percent compared to last year.",
-    "video":"",
-    "about": {
-      "title": "Some Journey Story",
-      "body": "some body content",
-      "title_image": "",
-      "body_image": "",
-      "color":""
-    },
-    "story": {
-      "title": "Some Story",
-      "sub_title": "Some subtitle",
-      "body": "some body content",
-      "color":""
-    },
-    "quote": {
-      "quote": "some quote",
-      "author": "author name",
-      "background_image":""
-    },
-    "two_block_text": {
-        "block_one_title": "some title",
-        "block_one_content": "some content",
-        "block_two_title": "some title two",
-        "block_two_content": "some content two",
-        "background": "",
-        "background_image":""
-    },
     "phone": "+1 888 555 1212",
     "website": "http://www.federalbank.com",
   }
-]
+ ]
+}
