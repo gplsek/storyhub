@@ -1,56 +1,47 @@
 {
-    "airlines": [
+    "stories": [
 	{
-	    "id": 1,
-	    "title": "Virgin",
-	    "body": "Virgin Airlines",
-	    "phone": "+1 888 555 1212",
-	    "website": "http://www.virgin.com",
-	    "terminal": [1,2,3],
-	    "picture": {
-		"small": "sm",
-		"medium": "med",
-		"large": "lg"
-	    }
+        "id": 1,
+        "title": "Federal Bank",
+        "headline": "Federal Bank is one of India’s fastest growing mid-size banks.",
+        "logo_url":"",
+        "oracle_product":"Oracle Cloud",
+        "category":"Banking",
+        "body": "It has a customer base of over 8 million customers and handles almost 15 percent of Indias inbound overseas remittances. With more than 1200 branches, 1600 ATMs, and over 11,000 employees, this USD 1.5 billion bank is in the midst of a massive digital transformation. It has increased its handling digital transactions by 43 percent compared to last year.",
+        "phone": "+1 888 555 1212",
+        "website": "http://www.federalbank.com"
 	},
 	{
-	    "id": 2,
-	    "title": "Jet Blue",
-	    "body": "Lorem Ipsum",
-	    "phone": "+1 888 555 1212",
-	    "website": "http://www.jetblue.com",
-	    "terminal": [1,2,3],
-	    "picture": {
-		"small": "sm",
-		"medium": "med",
-		"large": "lg"
-	    }
+        "id": 2,
+        "title": "Federal Bank",
+        "headline": "Federal Bank is one of India’s fastest growing mid-size banks.",
+        "logo_url":"",
+        "oracle_product":"Oracle Cloud",
+        "category":"Banking",
+        "body": "It has a customer base of over 8 million customers and handles almost 15 percent of Indias inbound overseas remittances. With more than 1200 branches, 1600 ATMs, and over 11,000 employees, this USD 1.5 billion bank is in the midst of a massive digital transformation. It has increased its handling digital transactions by 43 percent compared to last year.",
+        "phone": "+1 888 555 1212",
+        "website": "http://www.federalbank.com"
 	},
 	{
-	    "id": 3,
-	    "title": "Delta",
-	    "body": "Lorem Ipsum",
-	    "phone": "+1 888 555 1212",
-	    "website": "http://www.delta.com",
-	    "terminal": [1,2,3],
-	    "picture": {
-		"small": "sm",
-		"medium": "med",
-		"large": "lg"
-	    }
+        "id": 3,
+        "title": "Federal Bank",
+        "headline": "Federal Bank is one of India’s fastest growing mid-size banks.",
+        "logo_url":"",
+        "oracle_product":"Oracle Cloud",
+        "category":"Banking",
+        "body": "It has a customer base of over 8 million customers and handles almost 15 percent of Indias inbound overseas remittances. With more than 1200 branches, 1600 ATMs, and over 11,000 employees, this USD 1.5 billion bank is in the midst of a massive digital transformation. It has increased its handling digital transactions by 43 percent compared to last year.",
+        "phone": "+1 888 555 1212",
+        "website": "http://www.federalbank.com"
 	},
 	{
-	    "id": 3,
-	    "title": "Spirit",
-	    "body": "Lorem Ipsum",
-	    "phone": "+1 888 555 1212",
-	    "website": "http://www.spirit.com",
-	    "terminal": [1,2,3],
-	    "picture": {
-		"small": "sm",
-		"medium": "med",
-		"large": "lg"
-	    }
-	}
+        "id": 4,
+        "title": "Federal Bank",
+        "headline": "Federal Bank is one of India’s fastest growing mid-size banks.",
+        "logo_url":"",
+        "oracle_product":"Oracle Cloud",
+        "category":"Banking",
+        "body": "It has a customer base of over 8 million customers and handles almost 15 percent of Indias inbound overseas remittances. With more than 1200 branches, 1600 ATMs, and over 11,000 employees, this USD 1.5 billion bank is in the midst of a massive digital transformation. It has increased its handling digital transactions by 43 percent compared to last year.",
+        "phone": "+1 888 555 1212",
+        "website": "http://www.federalbank.com"
     ]
 }
