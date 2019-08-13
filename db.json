@@ -3,22 +3,38 @@
         {
             "id": 1,
             "title": "Federal Bank",
-            "headline": "Federal Bank is one of Indias fastest growing mid-size banks."
+            "headline": "Federal Bank is one of Indias fastest growing mid-size banks.",
+            "logo": "https://logoipsum.com/assets/logo/logo-1.svg",
+            "background": "https://picsum.photos/id/1/5616/3744",
+            "oracle_product": "Oracle Cloud",
+            "category": "Banking"
         },
         {
             "id": 2,
-            "title": "Federal Bank",
-            "headline": "Federal Bank is one of Indias fastest growing mid-size banks."
+            "title": "TTK Healthcare",
+            "headline": "TTK Healthcare is a leading provider in India of products aimed at improving quality of life for customers",
+            "logo": "https://logoipsum.com/assets/logo/logo-2.svg",
+            "background": "https://picsum.photos/id/1002/4312/2868",
+            "oracle_product": "Oracle Cloud",
+            "category": "Healthcare"
         },
         {
             "id": 3,
-            "title": "Federal Bank",
-            "headline": "Federal Bank is one of Indias fastest growing mid-size banks."
+            "title": "Sky",
+            "headline": "Sky is the largest satellite pay TV operator in Brazil.",
+            "logo": "https://logoipsum.com/assets/logo/logo-3.svg",
+            "background": "https://picsum.photos/id/101/2621/1747",
+            "oracle_product": "Oracle Cloud",
+            "category": "Entertainment"
         },
         {
             "id": 4,
-            "title": "Federal Bank",
-            "headline": "Federal Bank is one of Indias fastest growing mid-size banks."
+            "title": "CERN",
+            "headline": "CERN, the European Organization for Nuclear Research.",
+            "logo": "https://logoipsum.com/assets/logo/logo-4.svg",
+            "background": "https://picsum.photos/id/1022/6000/3376",
+            "oracle_product": "Oracle Cloud",
+            "category": "Research"
         }
     ]
 }
