@@ -8,7 +8,8 @@
             "logo": "https://logoipsum.com/assets/logo/logo-1.svg",
             "background": "https://picsum.photos/id/1/5616/3744",
             "oracle_product": "Oracle Cloud",
-            "category": "Banking"
+            "category": "Banking",
+            "story_type": "Applications"
         },
         {
             "id": 2,
@@ -18,7 +19,8 @@
             "logo": "https://logoipsum.com/assets/logo/logo-2.svg",
             "background": "https://picsum.photos/id/1002/4312/2868",
             "oracle_product": "Oracle Cloud",
-            "category": "Healthcare"
+            "category": "Healthcare",
+            "story_type": "Infrastructure"
         },
         {
             "id": 3,
@@ -29,6 +31,7 @@
             "background": "https://picsum.photos/id/101/2621/1747",
             "oracle_product": "Oracle Cloud",
             "category": "Entertainment"
+            "story_type": "Infrastructure"
         },
         {
             "id": 4,
@@ -39,6 +42,7 @@
             "background": "https://picsum.photos/id/1022/6000/3376",
             "oracle_product": "Oracle Cloud",
             "category": "Research"
+            "story_type": "Applications"
         }
     ]
 }
