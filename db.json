@@ -30,7 +30,7 @@
             "logo": "https://logoipsum.com/assets/logo/logo-3.svg",
             "background": "https://picsum.photos/id/101/2621/1747",
             "oracle_product": "Oracle Cloud",
-            "category": "Entertainment"
+            "category": "Entertainment",
             "story_type": "Infrastructure"
         },
         {
@@ -41,7 +41,7 @@
             "logo": "https://logoipsum.com/assets/logo/logo-4.svg",
             "background": "https://picsum.photos/id/1022/6000/3376",
             "oracle_product": "Oracle Cloud",
-            "category": "Research"
+            "category": "Research",
             "story_type": "Applications"
         }
     ]
